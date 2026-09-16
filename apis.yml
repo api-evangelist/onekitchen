@@ -44,7 +44,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Cloud Kitchens
@@ -52,6 +52,7 @@ tags:
 - Food Delivery
 - Restaurant
 - Food Tech
+- Defunct
 tags_raw:
 - Company
 - Cloud Kitchens
@@ -59,6 +60,7 @@ tags_raw:
 - Food Delivery
 - Restaurants
 - Food Tech
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
